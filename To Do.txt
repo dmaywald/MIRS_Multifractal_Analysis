@@ -1,0 +1,28 @@
+## To Do
+
+The model with highest accuracy may not always be the one we want to report. Find the simplest model that is comparable to the model with highest accuracy after throwing out models that are overfitting the data. 
+
+Simplest Model: Model with the fewest predictors/features
+Comparable: Within 1 or 2 SD's of the max training accuracy?
+Overfitting: Training Accuracy - Testing Accuracy > .3?
+
+Update table 4 of significant scaling descriptors
+
+Update test accuracy figures
+
+Update KDE figures
+
+Update scaling descriptors table
+
+There's a mismatch between the number of scaling descriptors listed in table 3 and 5.
+
+The model specifications in table 4 need hyperparameter values.
+
+The P-values in Figure 5 need to be updated to 2-3 decimal places.
+
+The scaling descriptors, not the numbers, should be on the x-axis in Figure 6(a).
+
+We need to proofread it.
+
+
+Update README
